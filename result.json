@@ -1,0 +1,310 @@
+{
+  "messages": [
+    {
+      "mid": null,
+      "seq": 0,
+      "attachment": {
+        "type": "template",
+        "payload": {
+          "image_aspect_ratio": "square",
+          "template_type": "generic",
+          "elements": [
+            {
+              "default_action": null,
+              "title": "#1  👁️141   Zootopia",
+              "subtitle": "From Walt Disney Animation Studios comes a comedy-adventure set in the modern mammal metropolis of Zootopia. \n\nDetermined to prove herself, Officer Judy Hopps, the first bunny on Zootopia’s police force, jumps at the chance to crack her first case – even if it means partnering with scam-artist fox Nick Wilde to solve the mystery. \n\nBring home this hilarious adventure full of action, heart and tons of bonus extras that take you deeper into the world of Zootopia. It’s big fun for all shapes and species! (c) 2016 Disney",
+              "item_url": null,
+              "image_url": "https://datastandard.blob.core.windows.net/botimg/58302651525d5d0d407390aa-15056478_1273862979343924_6177078774383193613_n[1].png",
+              "buttons": [
+                {
+                  "messenger_extensions": false,
+                  "type": "web_url",
+                  "url": "https://chatbottle.co/bots/zootopia-for-messenger?ref=chabottle-bot",
+                  "title": "Details"
+                },
+                {
+                  "messenger_extensions": true,
+                  "webview_height_ratio": "full",
+                  "type": "web_url",
+                  "url": "https://m.me/DisneyZootopia?ref=chatbottle.co",
+                  "title": "Chat"
+                },
+                {
+                  "messenger_extensions": false,
+                  "type": "element_share"
+                }
+              ],
+              "quantity": 0.0,
+              "price": 0.0,
+              "currency": null
+            },
+            {
+              "default_action": null,
+              "title": "#2  👁️192   And Chill",
+              "subtitle": "We built And Chill to give you movie recommendations that beat your expectations. By sending us a few messages per pick, you'll have shorter browsing times, clearer movie matches, and an intuitive movie recommendation experience. \n\nWe'll give you spot on movie recommendations you'll love.\n\nNo headaches. No endless browsing.",
+              "item_url": null,
+              "image_url": "https://datastandard.blob.core.windows.net/botimg/57717ce4e53224651400bb0d-and-chill",
+              "buttons": [
+                {
+                  "messenger_extensions": false,
+                  "type": "web_url",
+                  "url": "https://chatbottle.co/bots/and-chill?ref=chabottle-bot",
+                  "title": "Details"
+                },
+                {
+                  "messenger_extensions": true,
+                  "webview_height_ratio": "full",
+                  "type": "web_url",
+                  "url": "https://m.me/textandchill?ref=chatbottle.co",
+                  "title": "Chat"
+                },
+                {
+                  "messenger_extensions": false,
+                  "type": "element_share"
+                }
+              ],
+              "quantity": 0.0,
+              "price": 0.0,
+              "currency": null
+            },
+            {
+              "default_action": null,
+              "title": "#3  👁️98   Fandango",
+              "subtitle": "Fandango will find something awesome to watch! Watch trailers, look last trends, be in touch with the movie world! \n\nLooking for tickets? Enter your location to see which cinemas are playing movie near you.",
+              "item_url": null,
+              "image_url": "https://datastandard.blob.core.windows.net/botimg/579dfe6c525d5d0f947dab8a-13124760_10153564618141200_3821858625633946474_n.jpg",
+              "buttons": [
+                {
+                  "messenger_extensions": false,
+                  "type": "web_url",
+                  "url": "https://chatbottle.co/bots/fandango?ref=chabottle-bot",
+                  "title": "Details"
+                },
+                {
+                  "messenger_extensions": true,
+                  "webview_height_ratio": "full",
+                  "type": "web_url",
+                  "url": "https://m.me/6877151199?ref=chatbottle.co",
+                  "title": "Chat"
+                },
+                {
+                  "messenger_extensions": false,
+                  "type": "element_share"
+                }
+              ],
+              "quantity": 0.0,
+              "price": 0.0,
+              "currency": null
+            },
+            {
+              "default_action": null,
+              "title": "#4  👁️49   Odeon Cinemas",
+              "subtitle": "Book your movies at Odeon cinemas in UK using our official messenger BOT.",
+              "item_url": null,
+              "image_url": "https://datastandard.blob.core.windows.net/botimg/589f3bfb525d5d10943c4d02-odeon-cinemas-for-messenger.jpg",
+              "buttons": [
+                {
+                  "messenger_extensions": false,
+                  "type": "web_url",
+                  "url": "https://chatbottle.co/bots/odeon-cinemas-for-messenger?ref=chabottle-bot",
+                  "title": "Details"
+                },
+                {
+                  "messenger_extensions": true,
+                  "webview_height_ratio": "full",
+                  "type": "web_url",
+                  "url": "https://m.me/odeon?ref=chatbottle.co",
+                  "title": "Chat"
+                },
+                {
+                  "messenger_extensions": false,
+                  "type": "element_share"
+                }
+              ],
+              "quantity": 0.0,
+              "price": 0.0,
+              "currency": null
+            },
+            {
+              "default_action": null,
+              "title": "#5  👁️15   Movie Genie",
+              "subtitle": "We are huge movie lovers and we always wanted a way to discover the right movie for the right moment. This is what Movie Genie is all about; set your movie preferences (e.g. Comedy, after 1990, rating > 7.5) and get a list of great movies that match these criteria.\n\nJust say hello to the genie to get started!",
+              "item_url": null,
+              "image_url": "https://datastandard.blob.core.windows.net/botimg/588072c6525d61028c42e0c9-movie-genie-for-messenger.png",
+              "buttons": [
+                {
+                  "messenger_extensions": false,
+                  "type": "web_url",
+                  "url": "https://chatbottle.co/bots/movie-genie-for-messenger?ref=chabottle-bot",
+                  "title": "Details"
+                },
+                {
+                  "messenger_extensions": true,
+                  "webview_height_ratio": "full",
+                  "type": "web_url",
+                  "url": "https://m.me/miksoft.movie.genie?ref=chatbottle.co",
+                  "title": "Chat"
+                },
+                {
+                  "messenger_extensions": false,
+                  "type": "element_share"
+                }
+              ],
+              "quantity": 0.0,
+              "price": 0.0,
+              "currency": null
+            },
+            {
+              "default_action": null,
+              "title": "#6  👁️42   Lights Out Movie Experience",
+              "subtitle": "The team at QwipIt worked with Grandesign of Los Angeles to create a chatbot for a promotional experience of the movie Lights Out, a Warner Bros. Pictures feature film. The promotional experience was called a “Scare Booth” and functioned exactly how you might imagine it would. Users walked up to a shipping container sized booth in an AMC Theater in Los Angeles or New York City, entered the booth, got the bajeezus scared out of them through movie trickery, and exited the booth. The point of the promotion was to give users a “Lights Out” experience similar to that encountered by the main characters of the movie, while also taking a video of the whole frightening thing. This video was an asset that was cut with movie footage in the cloud, then delivered back to the user to share out with friends and organically promote the movie.",
+              "item_url": null,
+              "image_url": "https://datastandard.blob.core.windows.net/botimg/586ff4e1525d5d075496552d-lights-out-movie-experience-for-messenger.jpg",
+              "buttons": [
+                {
+                  "messenger_extensions": false,
+                  "type": "web_url",
+                  "url": "https://chatbottle.co/bots/lights-out-movie-experience-for-messenger?ref=chabottle-bot",
+                  "title": "Details"
+                },
+                {
+                  "messenger_extensions": true,
+                  "webview_height_ratio": "full",
+                  "type": "web_url",
+                  "url": "https://www.facebook.com/LightsOutTheMovie?ref=chatbottle.co",
+                  "title": "Chat"
+                },
+                {
+                  "messenger_extensions": false,
+                  "type": "element_share"
+                }
+              ],
+              "quantity": 0.0,
+              "price": 0.0,
+              "currency": null
+            },
+            {
+              "default_action": null,
+              "title": "#7  👁️63   A Flying Jatt Movie",
+              "subtitle": "Interact with the bot to know more about the movie, it's Stars, songs, trailers, contests & be part of live chats with Tiger Shroff & Jacqueline.",
+              "item_url": null,
+              "image_url": "https://datastandard.blob.core.windows.net/botimg/5852a287525d5e0d7cf19a44-logo",
+              "buttons": [
+                {
+                  "messenger_extensions": false,
+                  "type": "web_url",
+                  "url": "https://chatbottle.co/bots/a-flying-jatt-movie-for-messenger?ref=chabottle-bot",
+                  "title": "Details"
+                },
+                {
+                  "messenger_extensions": true,
+                  "webview_height_ratio": "full",
+                  "type": "web_url",
+                  "url": "https://www.messenger.com/t/Balajimotionpictures/?ref=chatbottle.co",
+                  "title": "Chat"
+                },
+                {
+                  "messenger_extensions": false,
+                  "type": "element_share"
+                }
+              ],
+              "quantity": 0.0,
+              "price": 0.0,
+              "currency": null
+            },
+            {
+              "default_action": null,
+              "title": "#8  👁️204   Deepika Padukone Real Fans",
+              "subtitle": "Now you can talk to Deepika Padukone whenever you want..Just send a message to get an instant reply back from Deepikabot.",
+              "item_url": null,
+              "image_url": "https://datastandard.blob.core.windows.net/botimg/583b4bd2525d5d0f00feb700-deepika-padukone-s-personal-bot-for-messenger.jpg",
+              "buttons": [
+                {
+                  "messenger_extensions": false,
+                  "type": "web_url",
+                  "url": "https://chatbottle.co/bots/deepika-padukone-s-personal-bot-for-messenger?ref=chabottle-bot",
+                  "title": "Details"
+                },
+                {
+                  "messenger_extensions": true,
+                  "webview_height_ratio": "full",
+                  "type": "web_url",
+                  "url": "https://m.me/DeepikaBot?ref=chatbottle.co",
+                  "title": "Chat"
+                },
+                {
+                  "messenger_extensions": false,
+                  "type": "element_share"
+                }
+              ],
+              "quantity": 0.0,
+              "price": 0.0,
+              "currency": null
+            },
+            {
+              "default_action": null,
+              "title": "#9  👁️147   MovieBot",
+              "subtitle": "Messenger based Movie suggestion bot, which can quickly give a random suggestion for a movie to watch, providing it with the IMDB link. Easy in operation. You can also see the cast of a particular movie, backdrops and screens from a movie, et cetera directly in the bot. Also, you can have a list of movies playing in theatres right now. \n\n\nThe bot uses IBM Watson's conversation API so it understands basic statements and doesn't need to be a properly framed command. Also, it suggests movies based on a particular genre.",
+              "item_url": null,
+              "image_url": "https://datastandard.blob.core.windows.net/botimg/5774cc8b525d600fdca0b0b6-MovieCrawler.png",
+              "buttons": [
+                {
+                  "messenger_extensions": false,
+                  "type": "web_url",
+                  "url": "https://chatbottle.co/bots/moviebot?ref=chabottle-bot",
+                  "title": "Details"
+                },
+                {
+                  "messenger_extensions": true,
+                  "webview_height_ratio": "full",
+                  "type": "web_url",
+                  "url": "https://m.me/moviebots?ref=chatbottle.co",
+                  "title": "Chat"
+                },
+                {
+                  "messenger_extensions": false,
+                  "type": "element_share"
+                }
+              ],
+              "quantity": 0.0,
+              "price": 0.0,
+              "currency": null
+            },
+            {
+              "default_action": null,
+              "title": "#10  👁️53   Power Rangers Movie",
+              "subtitle": "SABAN’S POWER RANGERS follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove — and the world — is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before it’s too late, band together as the Power Rangers.",
+              "item_url": null,
+              "image_url": "https://datastandard.blob.core.windows.net/botimg/58d966d1525d5d0f2453acaf-power-rangers-movie-for-messenger.png",
+              "buttons": [
+                {
+                  "messenger_extensions": false,
+                  "type": "web_url",
+                  "url": "https://chatbottle.co/bots/power-rangers-movie-for-messenger?ref=chabottle-bot",
+                  "title": "Details"
+                },
+                {
+                  "messenger_extensions": true,
+                  "webview_height_ratio": "full",
+                  "type": "web_url",
+                  "url": "https://m.me/powerrangersmovie?ref=chatbottle.co",
+                  "title": "Chat"
+                },
+                {
+                  "messenger_extensions": false,
+                  "type": "element_share"
+                }
+              ],
+              "quantity": 0.0,
+              "price": 0.0,
+              "currency": null
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "recipient": {
+    "id": "1181097942017256"
+  }
+}
